@@ -18,5 +18,7 @@ The following vulnerabilities were identified on each target:
 Target 1:
 
 Directory Listing
+
 Brute Force
+
 Privilege Escalation
