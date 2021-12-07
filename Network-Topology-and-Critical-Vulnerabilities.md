@@ -11,7 +11,7 @@ an Attacker Machine.
 ## Answer
 ![Image1](/images/Image1.png)
 
-Critical Vulnerabilities
+# Critical Vulnerabilities
 
 The following vulnerabilities were identified on each target:
 
