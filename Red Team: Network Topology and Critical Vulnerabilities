@@ -4,7 +4,7 @@ The Hyper V machine used consist many VM’s on its server:
 Vulnerable Web Server
 ELK Machine
 an Attacker Machine.
-![Network Image](/images/Image1.png)
+![Image1](/images/Image1.png)
 
 Critical Vulnerabilities
 The following vulnerabilities were identified on each target:
