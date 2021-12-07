@@ -22,3 +22,5 @@ Directory Listing
 Brute Force
 
 Privilege Escalation
+
+![Image2](/images/Image2.png)
