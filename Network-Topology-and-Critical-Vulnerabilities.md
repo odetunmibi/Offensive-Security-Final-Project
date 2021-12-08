@@ -23,7 +23,6 @@ Brute Force
 
 Privilege Escalation
 
-![Image2](/images/Image2.png)
 | Vulnerability        | Description           | Impact  |
 | ------------- |:-------------:| -----:|
 | Directory Listing/Sensitive Data Exposure| The ability to view directory contents on a website, rather than the html | Search and information gathering past what the developer intended |
