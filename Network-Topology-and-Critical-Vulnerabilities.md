@@ -26,8 +26,6 @@ Privilege Escalation
 ![Image2](/images/Image2.png)
 | Vulnerability        | Description           | Impact  |
 | ------------- |:-------------:| -----:|
-| Directory Listing
--
-Sensitive Data Exposure    | right-aligned | $1600 |
+| Directory Listing/Sensitive Data Exposure    | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
