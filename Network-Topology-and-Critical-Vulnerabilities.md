@@ -28,5 +28,4 @@ Privilege Escalation
 | ------------- |:-------------:| -----:|
 | Directory Listing/Sensitive Data Exposure| The ability to view directory contents on a website, rather than the html | Search and information gathering past what the developer intended |
 | Brute Force/WPScan     | As long as a username is known, a password (especially weaker) can be found through trial and error      |   Access to ‘michael’ useraccount by enumerating with WPScan and guessing the password
- |
-| Privilege Escalation | The ability to elevate from a user account to an admin or root account with higher privilege    |    An admin or root account has carte blanche, no restrictions |
+ |Privilege Escalation | The ability to elevate from a user account to an admin or root account with higher privilege    |    An admin or root account has carte blanche, no restrictions |
