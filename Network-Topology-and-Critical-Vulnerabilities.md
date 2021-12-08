@@ -17,11 +17,11 @@ The following vulnerabilities were identified on each target:
 
 Target 1:
 
-Directory Listing
+- Directory Listing
 
-Brute Force
+- Brute Force
 
-Privilege Escalation
+- Privilege Escalation
 
 | Vulnerability        | Description           | Impact  |
 | ------------- |:-------------:| -----:|
