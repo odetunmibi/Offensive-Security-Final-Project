@@ -1,10 +1,10 @@
 # Network topology 
 
-The Hyper V machine used consist many VM’s on its server:
+- The Hyper V machine used consist many VM’s on its server:
 
-2 attack machines, 
+- 2 attack machines, 
 
-Vulnerable Web Server
+- Vulnerable Web Server
 
 ELK Machine
 an Attacker Machine.
