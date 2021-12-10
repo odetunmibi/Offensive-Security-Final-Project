@@ -7,7 +7,7 @@
 
 ### Mitigating Detection
 - To avoid triggering the alert, different options can be utilized to break up the scan, such as --stealthy which has a passive detection mode and uses a random user agent. 
-- An alternative exploit that may perform better would be nmap with the -sS option because it can be quickly - performed and is relatively stealthy as it never completes TCP connections.
+- An alternative exploit that may perform better would be nmap with the -sS option because it can be quickly performed and is relatively stealthy as it never completes TCP connections.
 ## Stealth Exploitation of Brute Force
 ### Monitoring Overview
 - The Excessive HTTP Errors alert detected this exploit. 
@@ -21,4 +21,6 @@
 ### Monitoring Overview
 - An alert set up to monitor functions of AuditBeat can detect specific login information, such as per user or a number of attempts.
 - The alert could be set up to trigger on one login to the root account, at any point in time, from any IP.
-
+### Mitigating Detection
+- Using tools like hydra will helpful in avoiding login attemps while using a bruforce tool without detction.
+- Using AWS as a server tricks company users to thinking its one of them. (Cloud as a Service.)
